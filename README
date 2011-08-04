@@ -1,0 +1,4 @@
+This was my second semester final project for my Data Structures course. It was meant to be a simple implementation of the specifications outlined in http://nifty.stanford.edu/2006/cain-rss/nifty-rss.doc, but because the included files were not hosted on the website anymore, the architecture for the program was designed from scratch. One area that proved troublesome was the long amount of time needed to download hundreds of articles sequentially, so I decided to learn Java's multithreading API and perform the downloads in parallel, drastically speeding up the operation.
+
+This software is released under the GPL "as-is" without any warranty.
+Copyright (C) 2011 by Eric Bakan.
